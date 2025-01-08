@@ -1,6 +1,6 @@
 [project]
 name = "quickshell"
-version = "1.1.0"
+version = "1.2.0"
 description = "Removes the boilierplate when working with shells in python."
 readme = "README.md"
 authors = [
