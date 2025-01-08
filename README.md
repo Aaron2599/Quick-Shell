@@ -32,7 +32,7 @@ if __name__ == '__main__':
     asyncio.run(main())
 ```
 
-# Explanation
+## Explanation
 - **Importing the Library:** the `run_shell` function is imported from the `quickshell` library.
 - **Define the Command:** Replace `"dir"` with the shell command you want to execute.
 - **Running the Command:** The `run_shell` function executes the command asynchronously and captures its output.
