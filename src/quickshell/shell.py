@@ -15,7 +15,7 @@ async def run_shell(cmd, print_output: bool = False) -> Tuple[str, str]:
         while True:
             line = await stream.readline()
             if line:
-                text = line.decode().strip()
+                text = line.decode()
                 array.append(text)
                 if print_output:
                     print(text)
