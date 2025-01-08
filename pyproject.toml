@@ -1,0 +1,14 @@
+[project]
+name = "quickshell"
+version = "1.0.0"
+description = "Removes the boilierplate when working with shells in python."
+readme = "README.md"
+authors = [
+    { name = "Aaron2599" }
+]
+requires-python = ">=3.7"
+dependencies = []
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
