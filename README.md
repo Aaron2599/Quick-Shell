@@ -1,7 +1,7 @@
 # QuickShell: Simplify Shell Command Execution in Python
 [![PyPI - Version](https://img.shields.io/pypi/v/quickshell)](https://pypi.org/project/quickshell/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
 QuickShell is a simple Python library designed to remove the boilerplate when dealing with shell commands.
 
